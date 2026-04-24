@@ -1,76 +1,42 @@
-# Data Cleaning Project
+📊 DataMind AI – SaaS Data Intelligence Platform
 
-A Python-based project for cleaning, processing, and visualizing data with an interactive dashboard.
+DataMind AI is a next-generation AI-powered data analytics and cleaning dashboard built using Streamlit. It transforms raw datasets into clean, structured, and insightful information using automated preprocessing, interactive visualizations, and an integrated AI chatbot assistant.
 
-## Project Structure
+🚀 Features
+⚡ Smart Data Cleaning Engine
+Handles missing values automatically
+Removes duplicates
+Detects and filters outliers
+📊 Advanced Data Analytics
+Interactive histograms and box plots
+Correlation heatmaps
+Real-time dataset exploration
+🤖 AI Chat Assistant
+Ask questions about your data
+Get instant explanations on cleaning & analytics
+📈 KPI Dashboard
+Visual Data Health Score (circular progress indicator)
+Instant quality insights of dataset
+🎨 Modern SaaS UI
+Glassmorphism 3D cards
+Gradient-based professional design
+Animated splash screen
+👤 Multi-user Login System
+Personalized dashboard per user
+Upload history tracking
+🧠 Tech Stack
+Python 🐍
+Streamlit ⚡
+Pandas & NumPy 📊
+Plotly Express 📈
+JSON (User Database) 💾
+🎯 Purpose
 
-```
-data-cleaning-project/
-│
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-│
-├── notebook/
-│   └── cleaning.ipynb
-│
-├── src/
-│   └── clean_data.py
-│
-├── dashboard/
-│   └── app.py
-│
-├── README.md
-└── requirements.txt
-```
+This project is designed to simulate a production-level SaaS data intelligence platform, similar to modern BI tools like PowerBI but enhanced with AI-driven automation and conversational analytics.
 
-## Overview
-
-- **data/**: Raw and cleaned data files
-- **notebook/**: Jupyter notebook for exploratory data analysis
-- **src/**: Python scripts for data processing
-- **dashboard/**: Streamlit dashboard for visualization
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.8 or higher
-- pip
-
-### Installation
-
-1. Clone or download the project
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Usage
-
-#### Run Data Cleaning Script
-
-```bash
-python src/clean_data.py
-```
-
-#### Launch Dashboard
-
-```bash
-streamlit run dashboard/app.py
-```
-
-#### Jupyter Notebook
-
-```bash
-jupyter notebook notebook/cleaning.ipynb
-```
-
-## Requirements
-
-See `requirements.txt` for all dependencies.
-
-## License
-
-This project is open source and available under the MIT License.
+🔥 Future Enhancements
+OpenAI-powered smart chatbot integration
+Cloud database (Firebase / PostgreSQL)
+Real-time streaming analytics
+Export reports (PDF/Excel dashboards)
+Multi-role SaaS system (Admin/User/Enterprise)
