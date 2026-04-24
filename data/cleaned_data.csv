@@ -1,0 +1,17 @@
+id,name,age,gender,department,salary,experience,city
+1,Alice,25,Female,HR,30000,2,Bangalore
+2,Bob,29,Male,IT,50000,5,Mumbai
+3,Charlie,,Male,IT,60000,7,Delhi
+4,David,35,Male,Finance,80000,10,
+5,Eva,28,Female,HR,32000,3,Bangalore
+6,Frank,45,Male,Finance,150000,20,Mumbai
+7,Grace,22,Female,IT,,1,Delhi
+8,Helen,30,Female,HR,35000,4,Bangalore
+9,Ian,29,Male,IT,50000,5,Mumbai
+10,Jack,120,Male,Finance,999999,40,Delhi
+11,Kate,27,Female,HR,31000,3,Bangalore
+12,Liam,31,Male,IT,55000,6,
+13,Mia,26,Female,HR,30000,2,Bangalore
+14,Noah,33,Male,Finance,75000,8,Mumbai
+15,Olivia,29,Female,IT,52000,5,Delhi
+2,Bob,29,Male,IT,50000,5,Mumbai
